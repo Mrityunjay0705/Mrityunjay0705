@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack from a course on Udemy
 # 📫 Contact:
 ## Twitter : https://twitter.com/MPandey753
-Email: mrityunjay021021@gmail.com
+## Email: mrityunjay021021@gmail.com
 
 
 <!---
