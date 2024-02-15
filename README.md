@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mrityunjay Pandey
 - 👀 I’m interested in Web Devlopment and AI
 - 🌱 I’m currently learning MERN Stack from a course on Udemy
-#📫 Reach me mrityunjay021021@gmail.com
+# 📫 Reach me mrityunjay021021@gmail.com
 ## Twitter : (https://twitter.com/MPandey753)
 
 <!---
