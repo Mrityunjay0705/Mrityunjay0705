@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment and AI
 - 🌱 I’m currently learning MERN Stack from a course on Udemy
 # 📫 Contact:
-## Twitter : https://twitter.com/MPandey753
+Twitter : https://twitter.com/MPandey753
 <br>
 Email: mrityunjay021021@gmail.com
 
